@@ -1,0 +1,3 @@
+- insert:
+    - id: persona-manager
+      name: 'dsh-plugin-persona'
